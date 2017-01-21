@@ -1,0 +1,25 @@
+TEST_IO
+
+ ,"TEST_IO_CONFIG","aio-hdd"
+Processor,Intel Xeon E5-2623 v4 @ 2.60GHz (8 Cores),Intel Core i7-4510U @ 3.10GHz (4 Cores)
+Motherboard,Xen HVM domU,Type2- Board Vendor Name1 Product
+Chipset,Intel 440FX- 82441FX PMC,Intel Haswell-ULT DRAM
+Memory,16384 MB + 14328 MB RAM,8192MB
+Disk,48GB,750GB TOSHIBA MQ01ABD0
+Graphics,Device 1234:1111,Intel Haswell-ULT IGP 2048MB (1100MHz)
+Audio,NVIDIA GPU 71 HDMI/DP,Intel Haswell HDMI
+Network,,Realtek RTL8111/8168/8411 + Intel Wireless 3160
+OS,Ubuntu 14.04,Ubuntu 14.04
+Kernel,4.4.0-57-generic (x86_64),4.4.0-57-generic (x86_64)
+Compiler,GCC 4.8 + CUDA 7.5,GCC 4.8
+File-System,ext4,ext4
+System Layer,Xen HVM domU 4.4.1-xs128151,
+Desktop,,GNOME Shell 3.10.4
+Display Server,,X Server 1.18.3
+Display Driver,,intel 2.99.917
+OpenGL,,3.3 Mesa 11.2.0
+Screen Resolution,,1366x768
+
+ ,"TEST_IO_CONFIG","aio-hdd"
+"AIO-Stress - Test: Random Write",1864.93,72.80
+
